@@ -1,5 +1,5 @@
 # ---------------------------------------------
-# Script: 05_enrichment_analysis.R
+# Script: 06_enrichment_analysis.R
 # Purpose: Functional and pathway enrichment analysis
 # ---------------------------------------------
 
