@@ -1,5 +1,5 @@
 # ---------------------------------------------
-# Script: 07_ROC_AUC_discovery_validation.R
+# Script: 09_ROC_AUC_discovery_validation.R
 # Purpose: Evaluate diagnostic performance of candidate hub gene
 # ---------------------------------------------
 
