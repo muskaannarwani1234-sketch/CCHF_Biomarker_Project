@@ -1,5 +1,5 @@
 # ---------------------------------------------
-# Script: 08_GSEA_analysis.R
+# Script: 07_GSEA_analysis.R
 # Purpose: Gene Set Enrichment Analysis (GSEA)
 # ---------------------------------------------
 
