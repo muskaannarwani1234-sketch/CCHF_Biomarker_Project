@@ -13,7 +13,10 @@ This project focuses on identifying potential host gene expression biomarkers as
 - R programming
 - DESeq2 / limma
 - WGCNA
-- GSVA / ssGSEA
+- GSVA
+- ssGSEA
+- Machine learning(LASSO, RF, SVM)
+- GO/KEGG/GSEA
 - GEOquery
 
 ## Methodology
