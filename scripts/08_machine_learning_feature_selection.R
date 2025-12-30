@@ -1,5 +1,5 @@
 # ---------------------------------------------
-# Script: 09_machine_learning_feature_selection.R
+# Script: 08_machine_learning_feature_selection.R
 # Purpose: Feature selection using machine learning approaches
 # ---------------------------------------------
 
