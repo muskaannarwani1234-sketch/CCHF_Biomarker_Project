@@ -14,7 +14,6 @@ This project focuses on identifying potential host gene expression biomarkers as
 - DESeq2 / limma
 - WGCNA
 - GSVA / ssGSEA
-- Linux basics
 - GEOquery
 
 ## Methodology
