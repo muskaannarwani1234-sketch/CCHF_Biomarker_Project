@@ -149,7 +149,10 @@ Validation analysis was performed on the internal validation set, acknowledging 
 
 ---
 
-##  Repository Structure
+##  Author
+**Muskaan Narwani**  
+MSc Biotechnology  
+Bioinformatics Project
 
 
 
