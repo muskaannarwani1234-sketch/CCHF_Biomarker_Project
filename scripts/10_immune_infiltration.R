@@ -1,5 +1,5 @@
 # ---------------------------------------------
-# Script: 07_immune_infiltration.R
+# Script: 10_immune_infiltration.R
 # Purpose: Estimate immune cell infiltration using ssGSEA
 # ---------------------------------------------
 
